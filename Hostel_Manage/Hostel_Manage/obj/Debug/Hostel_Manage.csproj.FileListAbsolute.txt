@@ -1,0 +1,16 @@
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\bin\Debug\Hostel_Manage.exe.config
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\bin\Debug\Hostel_Manage.exe
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\bin\Debug\Hostel_Manage.pdb
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.exe
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.pdb
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.Main.resources
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.Forms.Student_Registration.resources
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.Templates.resources
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.Forms.AssignRoom.resources
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.Forms.Room.resources
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.Forms.Visitor.resources

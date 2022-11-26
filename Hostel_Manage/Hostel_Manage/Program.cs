@@ -17,7 +17,7 @@ namespace Hostel_Manage
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new Student_Registration());
+			Application.Run(new Main());
 		}
 	}
 }

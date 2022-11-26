@@ -55,10 +55,11 @@
 			// 
 			// label2
 			// 
+			this.label2.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.label2.AutoSize = true;
 			this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-			this.label2.Location = new System.Drawing.Point(263, 32);
+			this.label2.Location = new System.Drawing.Point(239, 31);
 			this.label2.Name = "label2";
 			this.label2.Size = new System.Drawing.Size(315, 39);
 			this.label2.TabIndex = 0;
@@ -85,6 +86,7 @@
 			// 
 			// button2
 			// 
+			this.button2.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
 			this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
 			this.button2.Location = new System.Drawing.Point(195, 441);
@@ -97,6 +99,7 @@
 			// 
 			// button5
 			// 
+			this.button5.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.button5.Image = ((System.Drawing.Image)(resources.GetObject("button5.Image")));
 			this.button5.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
 			this.button5.Location = new System.Drawing.Point(64, 441);
@@ -109,6 +112,7 @@
 			// 
 			// textBox10
 			// 
+			this.textBox10.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.textBox10.Location = new System.Drawing.Point(572, 146);
 			this.textBox10.Multiline = true;
 			this.textBox10.Name = "textBox10";
@@ -117,6 +121,7 @@
 			// 
 			// label13
 			// 
+			this.label13.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.label13.AutoSize = true;
 			this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label13.Location = new System.Drawing.Point(439, 150);
@@ -127,6 +132,7 @@
 			// 
 			// dateTimePicker1
 			// 
+			this.dateTimePicker1.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.dateTimePicker1.Location = new System.Drawing.Point(195, 371);
 			this.dateTimePicker1.Name = "dateTimePicker1";
 			this.dateTimePicker1.Size = new System.Drawing.Size(167, 20);
@@ -134,6 +140,7 @@
 			// 
 			// label8
 			// 
+			this.label8.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.label8.AutoSize = true;
 			this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label8.Location = new System.Drawing.Point(62, 375);
@@ -144,6 +151,7 @@
 			// 
 			// textBox5
 			// 
+			this.textBox5.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.textBox5.Location = new System.Drawing.Point(195, 101);
 			this.textBox5.Name = "textBox5";
 			this.textBox5.Size = new System.Drawing.Size(167, 20);
@@ -151,6 +159,7 @@
 			// 
 			// label6
 			// 
+			this.label6.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.label6.AutoSize = true;
 			this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label6.Location = new System.Drawing.Point(62, 105);
@@ -161,6 +170,7 @@
 			// 
 			// textBox2
 			// 
+			this.textBox2.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.textBox2.Location = new System.Drawing.Point(195, 191);
 			this.textBox2.Name = "textBox2";
 			this.textBox2.Size = new System.Drawing.Size(167, 20);
@@ -168,6 +178,7 @@
 			// 
 			// label3
 			// 
+			this.label3.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.label3.AutoSize = true;
 			this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label3.Location = new System.Drawing.Point(62, 195);
@@ -178,6 +189,7 @@
 			// 
 			// textBox1
 			// 
+			this.textBox1.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.textBox1.Location = new System.Drawing.Point(195, 146);
 			this.textBox1.Name = "textBox1";
 			this.textBox1.Size = new System.Drawing.Size(167, 20);
@@ -185,6 +197,7 @@
 			// 
 			// label1
 			// 
+			this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.label1.AutoSize = true;
 			this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label1.Location = new System.Drawing.Point(62, 150);
@@ -195,6 +208,7 @@
 			// 
 			// textBox7
 			// 
+			this.textBox7.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.textBox7.Location = new System.Drawing.Point(195, 323);
 			this.textBox7.Name = "textBox7";
 			this.textBox7.Size = new System.Drawing.Size(167, 20);
@@ -202,6 +216,7 @@
 			// 
 			// label10
 			// 
+			this.label10.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.label10.AutoSize = true;
 			this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label10.Location = new System.Drawing.Point(61, 327);
@@ -212,6 +227,7 @@
 			// 
 			// dateTimePicker2
 			// 
+			this.dateTimePicker2.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.dateTimePicker2.Location = new System.Drawing.Point(195, 282);
 			this.dateTimePicker2.Name = "dateTimePicker2";
 			this.dateTimePicker2.Size = new System.Drawing.Size(167, 20);
@@ -219,6 +235,7 @@
 			// 
 			// label9
 			// 
+			this.label9.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.label9.AutoSize = true;
 			this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label9.Location = new System.Drawing.Point(61, 282);
@@ -229,6 +246,7 @@
 			// 
 			// textBox3
 			// 
+			this.textBox3.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.textBox3.Location = new System.Drawing.Point(572, 101);
 			this.textBox3.Name = "textBox3";
 			this.textBox3.Size = new System.Drawing.Size(167, 20);
@@ -236,6 +254,7 @@
 			// 
 			// label4
 			// 
+			this.label4.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.label4.AutoSize = true;
 			this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label4.Location = new System.Drawing.Point(439, 105);
@@ -270,6 +289,7 @@
 			this.Controls.Add(this.panel1);
 			this.Controls.Add(this.panel2);
 			this.Name = "Staff";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "Staff";
 			this.panel1.ResumeLayout(false);
 			this.panel1.PerformLayout();

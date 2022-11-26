@@ -14,3 +14,5 @@ C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Man
 C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.Forms.AssignRoom.resources
 C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.Forms.Room.resources
 C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.Forms.Visitor.resources
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.Forms.Login.resources
+C:\Users\DELL\OneDrive\Desktop\Hostel-Management-System\Hostel_Manage\Hostel_Manage\obj\Debug\Hostel_Manage.Forms.Staff.resources

@@ -16,5 +16,10 @@ namespace Hostel_Manage.Forms
 		{
 			InitializeComponent();
 		}
+
+		private void btn_Save_Click(object sender, EventArgs e)
+		{
+			string Query="INSERT INTO tbl_Visitor VALUES('"+txt_CNIC.Text+"','"+txt_Name.Text+"','"+txt_VistorRelation.Text+"','"+txt_CNIC.Text+"','"+txt_Name.Text+')"
+		}
 	}
 }

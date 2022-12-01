@@ -27,6 +27,7 @@ namespace Hostel_Manage.Forms
 			sqlData.Opencon();
 			sqlData.NonQueryExecter(Query);
 			sqlData.Closecon();
+			MyMessage.Success("Room");
 		}
 	}
 }

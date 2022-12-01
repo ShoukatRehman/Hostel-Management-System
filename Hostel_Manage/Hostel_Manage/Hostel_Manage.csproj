@@ -84,6 +84,7 @@
     <Compile Include="Forms\Visitor.Designer.cs">
       <DependentUpon>Visitor.cs</DependentUpon>
     </Compile>
+    <Compile Include="Helper\Message.cs" />
     <Compile Include="Helper\SqlData.cs" />
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
